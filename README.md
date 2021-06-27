@@ -1,7 +1,7 @@
 # HifaFace
 
 ## Introduction
-This is the official PyTorch implementation of the **High-Fidelity and Arbitrary Face Editing**.
+This is the project site of the **High-Fidelity and Arbitrary Face Editing**.
 
 ![HifaFace](images/HifaFace.png)
 
